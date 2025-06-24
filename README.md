@@ -9,3 +9,9 @@ Kaggle Dataset Link : https://www.kaggle.com/datasets/abdallahalidev/plantvillag
 Trained model : https://drive.google.com/drive/folders/1--k2kzzDj4-Icjahok-A2Z9KHQrcISj1
 
 
+This project leverages the power of Convolutional Neural Networks (CNNs) for accurate plant disease classification based on leaf images. Built with a deep learning backend and deployed through a user-friendly Streamlit interface, it enables prediction of plant diseases to assist farmers, researchers, and agricultural experts. The model is trained on a labeled dataset of healthy and diseased leaf images, aiming to provide early diagnosis and reduce crop loss.
+✨ Features:
+- Image upload interface for live prediction
+- Pretrained CNN model for high accuracy
+- Streamlit-based responsive web app
+- Modular and easy-to-extend code structure
